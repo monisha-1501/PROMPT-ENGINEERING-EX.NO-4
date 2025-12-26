@@ -45,6 +45,8 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
+Output:
 
+[Monisha. exp 4.docx](https://github.com/user-attachments/files/24350321/Monisha.exp.4.docx)
 
 # Result: The various types of Prompts are executed successfully with generated the report.
